@@ -1,0 +1,49 @@
+Apa warna bendera Indonesia?|Merah putih, Putih merah, Merah biru, Putih kuning
+Siapa yang mengajar di sekolah?|Guru, Dokter, Sopir, Tukang
+Kita membaca buku di?|Perpustakaan, Kamar mandi, Dapur, Gudang
+Huruf pertama dalam abjad adalah?|A, B, C, D
+Mata digunakan untuk?|Melihat, Makan, Berjalan, Tidur
+Kaki digunakan untuk?|Berjalan, Mendengar, Makan, Menulis
+Ibu memasak di?|Dapur, Kamar, Kelas, Kebun
+Ayah pergi bekerja di?|Kantor, Sekolah, Pasar malam, Rumah sakit hewan
+Kita tidur di?|Tempat tidur, Meja, Lantai kelas, Dapur
+Huruf kapital digunakan di?|Awal kalimat, Tengah kalimat, Akhir paragraf, Judul buku
+Binatang yang suka menggonggong?|Anjing, Kucing, Kelinci, Burung
+Lawan kata "besar"?|Kecil, Panjang, Tinggi, Lebar
+Lawan kata "panjang"?|Pendek, Besar, Kecil, Lebar
+Air itu?|Bening, Hitam, Merah, Kuning
+Buah yang berwarna merah?|Apel, Pisang, Jeruk, Pepaya
+Kita bermain di?|Halaman, Dapur, Kantor, Garasi
+Hari setelah Senin adalah?|Selasa, Minggu, Rabu, Jumat
+Tempat membeli obat?|Apotek, Warung, Sekolah, Rumah
+Kita menulis dengan?|Pensil, Sendok, Sapu, Gunting
+Benda yang bisa terbang?|Burung, Ikan, Kucing, Kuda
+Sapi makan?|Rumput, Daging, Roti, Ikan
+Kita harus bersikap?|Sopan, Galak, Malas, Nakal
+Teman harus?|Disayangi, Dihindari, Dibenci, Dijauhi
+Kita mandi dengan?|Air, Pasir, Minyak, Debu
+Tempat menyimpan buku?|Rak, Meja, Kursi, Kulkas
+Buah berwarna kuning?|Pisang, Apel, Semangka, Anggur
+Yang termasuk alat tulis?|Pulpen, Piring, Sapu, Gunting
+Tempat makan di rumah?|Ruang makan, Kamar tidur, Kamar mandi, Garasi
+Ibu memasak nasi dengan?|Rice cooker, Kulkas, Blender, TV
+Tempat duduk di kelas?|Kursi, Lantai, Tangga, Meja guru
+Minuman sehat adalah?|Susu, Soda, Kopi, Sirup
+Kita menonton televisi di?|Ruang tamu, Dapur, Garasi, Taman
+Sore hari matahari?|Terbenam, Terbit, Menghilang, Naik
+Benda yang bisa mengapung?|Perahu, Batu, Logam, Sepeda
+Binatang yang hidup di air?|Ikan, Kucing, Burung, Ayam
+Alat untuk memotong kertas?|Gunting, Pensil, Penghapus, Penggaris
+Sayuran berwarna hijau?|Bayam, Wortel, Tomat, Cabai
+Kita belajar membaca di?|Sekolah, Pasar, Rumah sakit, Terminal
+Kita memanggil ibu guru dengan?|Bu, Mbak, Kakak, Tante
+Bunyi "a" ada di kata?|Ayam, Kucing, Gigi, Sikat
+Bunyi "i" ada di kata?|Ikan, Buku, Baju, Sepatu
+Bunyi "u" ada di kata?|Ular, Buku, Kaca, Kertas
+Bunyi "e" ada di kata?|Emas, Buku, Sepatu, Gunting
+Bunyi "o" ada di kata?|Orang, Meja, Sapu, Dasi
+Menulis nama harus diawali?|Huruf besar, Huruf kecil, Angka, Simbol
+Setelah huruf B adalah?|C, D, E, A
+Kita melihat jam di?|Dinding, Meja, Lantai, Rak
+Menyikat gigi dilakukan?|Pagi dan malam, Malam saja, Pagi saja, Siang saja
+Di sekolah kita harus?|Rajin, Malas, Tidur, Marah

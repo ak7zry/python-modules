@@ -1,0 +1,50 @@
+What color is the sky?|Blue, Red, Green, Yellow
+What is the opposite of big?|Small, Tall, Long, Fat
+What do we wear on our feet?|Shoes, Hat, Shirt, Gloves
+What do we use to write?|Pencil, Spoon, Book, Plate
+What animal says “meow”?|Cat, Dog, Cow, Duck
+What day comes after Monday?|Tuesday, Sunday, Friday, Saturday
+What do we drink?|Water, Bread, Apple, Fish
+What fruit is red?|Apple, Banana, Orange, Grapes
+What color is a banana?|Yellow, Red, Purple, Blue
+What do we sleep on?|Bed, Chair, Table, Floor
+What do we eat?|Food, Pencil, Shirt, Water
+What do you say when you meet someone?|Hello, Bye, Sleep, Go
+What do you say when you leave?|Goodbye, Hello, Thanks, Sit
+What animal barks?|Dog, Cat, Cow, Bird
+What is the color of grass?|Green, Red, Orange, Black
+What do you use to eat soup?|Spoon, Fork, Knife, Pen
+Where do we read books?|Library, Kitchen, Garage, Bathroom
+What do we wear on our head?|Hat, Shoes, Socks, Gloves
+What is the opposite of hot?|Cold, Warm, Cool, Heat
+What is 1 + 1?|2, 3, 4, 5
+What do we call our mother’s father?|Grandfather, Uncle, Brother, Father
+How many legs does a bird have?|2, 3, 4, 1
+What do we use to see?|Eyes, Ears, Hands, Legs
+What is the first letter of the alphabet?|A, B, C, D
+What sound does a cow make?|Moo, Meow, Bark, Chirp
+What shape is a ball?|Circle, Square, Triangle, Rectangle
+What color is an apple?|Red, Blue, Black, White
+What do we wear on our body?|Clothes, Toys, Books, Phones
+What do we use to hear?|Ears, Eyes, Nose, Mouth
+What do we use to smell?|Nose, Eyes, Hands, Feet
+What do bees make?|Honey, Milk, Water, Juice
+What animal has a long neck?|Giraffe, Elephant, Tiger, Lion
+Where do fish live?|Water, Air, Tree, House
+What do we wear on cold days?|Jacket, T-shirt, Shorts, Cap
+What do we use to cut paper?|Scissors, Spoon, Pen, Eraser
+What do we use to clean teeth?|Toothbrush, Comb, Knife, Fork
+What do you say after receiving a gift?|Thank you, Go away, Hello, Never
+What is the opposite of sad?|Happy, Angry, Crying, Bad
+What is the opposite of fast?|Slow, Run, Quick, Speed
+What do we use to color?|Crayons, Spoon, Shoes, Ruler
+Where do we learn?|School, Hospital, Market, Kitchen
+Who teaches at school?|Teacher, Doctor, Driver, Chef
+What day comes before Sunday?|Saturday, Monday, Tuesday, Friday
+What color is the sun?|Yellow, Blue, Green, Pink
+What is the baby of a cat called?|Kitten, Puppy, Calf, Chick
+What is the baby of a dog called?|Puppy, Kitten, Duckling, Lamb
+What is the opposite of up?|Down, Above, Over, Fly
+What do we see with?|Eyes, Nose, Ears, Tongue
+How many fingers do we have?|10, 5, 6, 8
+What do we use to walk?|Legs, Hands, Ears, Eyes
